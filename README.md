@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdonathack&label=Profile%20views&color=0e75b6&style=flat" alt="0xdonathack" /> </p>
 
-<p align="left"> <a href="https://twitter.com/0xdonathack" target="blank"><img src="https://img.shields.io/twitter/follow/0xdonathack?logo=twitter&style=for-the-badge" alt="0xdonathack" /></a> </p>
+<p align="left"> <a href="https://twitter.com/donathack" target="blank"><img src="https://img.shields.io/twitter/follow/donathack?logo=twitter&style=for-the-badge" alt="donathack" /></a> </p>
 
 - 🔭 I’m currently working on **Scraping With Tor Proxy And Selenium**
 
