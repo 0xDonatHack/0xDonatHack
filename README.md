@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Selenium , Playwright , BeautifulSoup**
 
-- 👨‍💻 All of my projects are available at [https://bounty.great-site.net](https://bounty.great-site.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
